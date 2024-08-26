@@ -18,9 +18,33 @@ const mentors = [
   },
   {
     id: 3,
-    name: "Mike Johnson",
+    name: "Harsh Gupta",
+    expertise: "Front-end Developer",
+    availability: "Tue, Thu, sun ,Mon",
+  },
+  {
+    id: 4,
+    name: "Rashmi Nishad",
+    expertise: "Data Analysis",
+    availability: "Tue, Thu, Sat",
+  },
+  {
+    id: 5,
+    name: "Utkarsh Gupta",
     expertise: "Product Management",
     availability: "Mon, Tue, Wed",
+  },
+  {
+    id: 6,
+    name: "Mike Johnson",
+    expertise: "Management",
+    availability: "Mon, Tue, Wed",
+  },
+  {
+    id: 7,
+    name: "Shubham ",
+    expertise: "Leardership",
+    availability: "Mon, Tue, Wed , Sat",
   },
 ];
 
