@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto">
         <div className="flex flex-wrap justify-between">
           <div className="w-full md:w-1/3 mb-6 md:mb-0">
-            <h3 className="text-xl font-bold mb-2">MentorConnect</h3>
+            <h3 className="text-xl font-bold mb-2">GuideWave</h3>
             <p>
               Connecting mentees with industry experts for career growth and
               success.
