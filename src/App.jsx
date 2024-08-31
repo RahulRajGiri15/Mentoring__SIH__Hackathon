@@ -29,7 +29,7 @@ import About from './components/mentoring/About';
 const App = () => {
 
   return(
-    <div className='pt-[5%]  flex  flex-col gap-5 '>
+    <div className=' pt-[3%] flex  flex-col gap-5 '>
 
       <nav className='flex justify-center gap-5 font-bold '>
 
